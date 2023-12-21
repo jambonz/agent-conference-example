@@ -1,0 +1,22 @@
+{
+  "name": "jambonz-conference-app",
+  "version": "0.0.1",
+  "description": "jambonz websocket application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "jslint": "eslint app.js lib"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@jambonz/node-client": "^0.3.62",
+    "@jambonz/node-client-ws": "^0.1.25",
+    "config": "^3.3.9",
+    "pino": "^8.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-plugin-promise": "^6.1.1"
+  }
+}
