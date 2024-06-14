@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "@jambonz/node-client": "^0.3.62",
-    "@jambonz/node-client-ws": "^0.1.25",
+    "@jambonz/node-client-ws": "^0.1.43",
     "config": "^3.3.9",
     "pino": "^8.17.1"
   },
